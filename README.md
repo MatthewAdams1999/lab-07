@@ -11,7 +11,7 @@ Compile SDK - 34
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-## Additional Inforamtion
+## Additional Information
 
 Participation tests were written under ShowActivityTest.java in the same (androidTest) folder that MainActivityTest was written in (Lab Demo), not the same file.
 
@@ -21,3 +21,4 @@ Participation tests were written under ShowActivityTest.java in the same (androi
 | ------------ | -------- |
 | `<example1>` | `<CCID>` |
 | `<example2>` | `<CCID>` |
+
