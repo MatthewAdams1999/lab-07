@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android UI Testing</string>
+    <string name="backButton">Back</string>
 </resources>
